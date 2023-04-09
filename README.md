@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there 👋, I'm still in the process of making one of those cool rendered about me page!
 
 <!--
 **Lucas-ZX-W/Lucas-ZX-W** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
